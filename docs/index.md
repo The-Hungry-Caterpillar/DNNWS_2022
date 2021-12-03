@@ -10,7 +10,7 @@ This weekly workshop is for anyone interested in learning how to create deep lea
 
 # Schedule
 
-* **Week 1 - 01/10/2022:** [\[Notebook\]](../notebooks/1-Introduction.ipynb) [\[Slides\]](../slides/something.pdf)
+* **Week 1 - 01/10/2022:** [\[Notebook\]](../notebooks/1-Introduction.ipynb) [\[Slides\]](../slides/Introduction.pdf)
 * **Week 2 - 01/17/2022:** [\[Notebook\]](../notebooks/2-Neural_Networks.ipynb)
 * **Week 3 - 01/24/2022:** [\[Notebook\]](../notebooks/3-Neural_Networks-2.ipynb)
 * **Week 4 - 02/07/2022:** [\[Notebook\]](../notebooks/4-ImageData.ipynb)
