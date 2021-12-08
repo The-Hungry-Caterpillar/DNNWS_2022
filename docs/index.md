@@ -1,13 +1,17 @@
-# Introduction to Deep Learning For Image Analysis - Winter 2022
+#  <img align="Left" src="/assets/flyer_image.png" width="300"> Introduction to Deep Learning For Image Analysis - Winter 2022
 
 This weekly workshop is for anyone interested in learning how to create deep learning algorithms for their image analysis projects. Over 8 weeks, we will cover the building blocks of convolutional neural networks, handling image data, and common problems seen in biological image data sets. Participants should have a working knowledge of python and a basic understanding of statistics. 
 
-* **Format**: Weekly in-person 1 1/2 hour sessions, Mondays 2:00-3:30 PM - a remote connection will be available for those who cannot attend in person.
+* **Format**: Weekly in-person 1 1/2 hour sessions, Mondays 2:00-3:30 PM (Campus 106/107) - a remote connection will be available for those who cannot attend in person.
 
 * **Eligibility**: Open to everyone in the UO community with experience in python and basic knowledge of statistics, guests of the UO community may join with instructor approval. There is a 30 person cap for students available on a first-come basis.  
 
-* **Cost**: As we continue to build our workshop series, all costs are currently covered by generous support from UO's Data Science Initiative and the Knight Campus Bio-informatics Internship Program.
+* **Cost**: As we continue to build our workshop series, all costs are currently covered by generous support from UO's [Data Science Initiative](https://datascience.uoregon.edu/) and the [Knight Campus Graduate Internship Program](https://internship.uoregon.edu/bioinformatics?)
 
+* **Registration**: UO Community: [\[Link\]](https://oregon.qualtrics.com/jfe/form/SV_1yKA4pE99nqxjOS)  Others please email instructor.
+
+* **Instructor**:[Jake Searcy](https://datascience.uoregon.edu/leadership-staff): jsearcy@uoregon.edu
+ 
 # Schedule
 
 * **Week 1 - 01/10/2022:** [\[Notebook\]](../notebooks/1-Introduction.ipynb) [\[Slides\]](../slides/Introduction.pdf)
