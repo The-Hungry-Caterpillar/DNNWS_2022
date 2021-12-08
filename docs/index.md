@@ -1,6 +1,7 @@
 #  <img align="Left" src="https://raw.githubusercontent.com/jsearcy1/DNNWS_2022/develop/assets/flyer_image.png" width="300"> Introduction to Deep Learning For Image Analysis - Winter 2022
 
 This weekly workshop is for anyone interested in learning how to create deep learning algorithms for their image analysis projects. Over 8 weeks, we will cover the building blocks of convolutional neural networks, handling image data, and common problems seen in biological image data sets. Participants should have a working knowledge of python and a basic understanding of statistics. 
+<hr>
 
 * **Format**: Weekly in-person 1 1/2 hour sessions, Mondays 2:00-3:30 PM (Campus 106/107) - a remote connection will be available for those who cannot attend in person.
 
