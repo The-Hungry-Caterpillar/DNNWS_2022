@@ -10,7 +10,7 @@ class LinearModel():
         self.intercept= tf.Variable(0., name='intercept',dtype=tf.float32)
         self.mse = tf.keras.losses.MeanSquaredError()
         
-    def loss(self,true,x):
+    def loss(self,x,true):
         pred=self._predict(x)
         return self.mse(true,pred)
         
@@ -49,7 +49,7 @@ class LinearModel():
                 batch_y=y_true
           
             with tf.GradientTape() as tape:
-                _loss= self.loss(batch_y,batch)
+                _loss= self.loss(batch,batch_y)
             gradients = tape.gradient(_loss, [self.slope,self.intercept])
             path_v.append((self.slope.numpy(),self.intercept.numpy()))
             grad_v.append(gradients)
