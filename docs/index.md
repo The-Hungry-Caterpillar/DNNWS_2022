@@ -9,7 +9,7 @@ This weekly workshop is for anyone interested in learning how to create deep lea
 
 * **Cost**: As we continue to build our workshop series, all costs are currently covered by generous support from UO's [Data Science Initiative](https://datascience.uoregon.edu/) and the [Knight Campus Graduate Internship Program](https://internship.uoregon.edu/bioinformatics?)
 
-* **Registration**: UO Community: [\[Link\]](https://oregon.qualtrics.com/jfe/form/SV_1yKA4pE99nqxjOS)  Others please email instructor.
+* **Registration**: Closed
 
 * **Instructor**: [Jake Searcy](https://datascience.uoregon.edu/leadership-staff): jsearcy@uoregon.edu
  
