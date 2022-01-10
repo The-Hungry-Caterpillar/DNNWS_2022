@@ -25,3 +25,8 @@ This weekly workshop is for anyone interested in learning how to create deep lea
 * **Week 7 - 02/28/2022:** [\[Notebook\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/7-CancerDetectionExample.ipynb)
 * **Week 8 - 03/07/2022:** [\[Notebook\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/8-CancerDetectionPart2.ipynb)
 * **Extras** [\[GPUs\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/Extra-GPUs.ipynb)
+
+# Links
+* Getting Started - https://github.com/jsearcy1/DNNWS_2022
+* Talapas Portal  - https://talapas-ln1.uoregon.edu/
+* Teams Request Link - [\[Link\]](https://teams.microsoft.com/l/team/19%3a6wbEnk74PBDG5go-UmEFWu50MmK6pviolb5_U9RNhcE1%40thread.tacv2/conversations?groupId=811bf6c3-3f3c-4720-8c34-8395dbb5c55c&tenantId=8f0b198f-f447-4cfe-ba03-526b46c661f8)
