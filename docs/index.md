@@ -17,7 +17,7 @@ This weekly workshop is for anyone interested in learning how to create deep lea
 
 * **Week 1 - 01/10/2022:** [\[Notebook\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/1-Introduction.ipynb) [\[Slides\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/slides/Introduction.pdf)[\[Answers\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/AnswerKey/1-Introduction.ipynb)
 * **Martin Luther King, Jr. Day - 01/17/2022:** - No Session
-* **Week 2 - 01/24/2022:** [\[Notebook\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/2-Neural_Networks.ipynb)[\[Slides\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/slides/UpdateSlide.pdf)
+* **Week 2 - 01/24/2022:** [\[Notebook\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/2-Neural_Networks.ipynb)[\[Slides\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/slides/UpdateSlide.pdf)[\[Answers\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/AnswerKey/2-Neural_Networks.ipynb)
 * **Week 3 - 01/31/2022:** [\[Notebook\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/3-Neural_Networks-2.ipynb)
 * **Week 4 - 02/07/2022:** [\[Notebook\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/4-ImageData.ipynb)
 * **Week 5 - 02/14/2022:** [\[Notebook\]](https://github.com/jsearcy1/DNNWS_2022/blob/develop/notebooks/5-ConvolutionalNN.ipynb)
