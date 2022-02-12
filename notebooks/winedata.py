@@ -23,7 +23,7 @@ class WineData():
         test=[]
         for i in range(len(self.all)):
             if np.random.uniform()>0.9:test.append(i)
-            if np.random.uniform()>0.7:develop.append(i)
+            elif np.random.uniform()>0.7:develop.append(i)
             else:train.append(i)
         self.x_train=self.all[train]
         self.x_develop=self.all[develop]
